@@ -1,4 +1,4 @@
-# Demos
+# ML Field Notes
 
 The purpose of this repo is to merely contain personal off-the-shelf code examples, notes, and requirement files for future use.
 
