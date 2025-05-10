@@ -17,7 +17,7 @@ This document provides a practical, sprint-friendly framework for systematically
 
 ---
 
-## Section 0: Problem Framing, Hypothesis, Dataset Development, and Metrics
+## Section 0: Problem Framing, Hypothesis, Dataset Development, and Business Metrics
 
 **Purpose:**  
 Ensure a shared, actionable understanding of the business problem and the data foundation for modeling.
@@ -25,9 +25,12 @@ Ensure a shared, actionable understanding of the business problem and the data f
 ### Steps
 
 1. **Define the Business Problem**
+    - Identify technical stakeholders & project lead.
     - Collaborate with stakeholders on objectives, constraints, and desired outcomes.
 2. **Formulate Initial Hypotheses**
     - Develop testable statements about expected relationships or behaviors.
+3. **Stakeholder Review Cadence**
+    - Schedule recurring stakeholder review sessions (at least once per sprint) to share progress, translate results into business impact, discuss risks and dependencies, and collect actionable feedback. Document all input and decisions to ensure alignment and transparency.
 3. **Dataset Development**
     - **Data Collection:** Identify, acquire, and integrate raw data sources.
     - **Data Quality Evaluation:** Assess completeness, consistency, accuracy, timeliness, and relevance.
